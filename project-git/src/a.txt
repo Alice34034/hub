@@ -2,7 +2,7 @@
 apples
 sweet oranges
 =======
-sweet apples
+sour apples
 oranges
 >>>>>>> 32ffd52864584c19e99a5f431380f04a0c1a78a4
 kiwis
